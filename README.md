@@ -1,7 +1,7 @@
 # trading-behavioral-biases-detector-thai
 
 ## Problem
-Since the 2020 pandemic, trading has become the new normal for many Thais in both [Stocks](https://www.bangkokpost.com/business/2048747/sharp-rise-in-online-trading-on-stock-market) and [Cryptocurrency](https://www.bangkokpost.com/business/2103539/april-sees-surge-in-retail-cryptocurrency-traders) markets. To illustrate, online accounts trading on the Thai stock market nearly doubled last year (Bangkokpost). However, most of people who opened their account last year have very little or no exprience in trading, let alone skills to survive the dynamic of financial markets. One of the skills inexperienced trader lack most is trading psychology and understanding of themself. Traditional way to optimally learn trading psychology is to write a trading diary and let professional coach review your trade, but most trader don't have access to professional coach.
+Since the global 2020 pandemic, trading has become the new normal for many Thais in both [Stock](https://www.bangkokpost.com/business/2048747/sharp-rise-in-online-trading-on-stock-market) and [Cryptocurrency](https://www.bangkokpost.com/business/2103539/april-sees-surge-in-retail-cryptocurrency-traders) markets. To illustrate, online accounts trading on the Thai stock market nearly doubled last year (Bangkokpost). However, most of new traders tend to have very little or no exprience in trading, let alone skills to survive the dynamic of financial markets. One of the skills inexperienced trader crave for is trading psychology, understanding of themself. Traditional way to optimally learn trading psychology is to let professional coach review your trade, but most trader don't have access to professional coach.
 
 
 ## Proposed solution
