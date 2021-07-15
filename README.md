@@ -1,11 +1,11 @@
 # trading-behavioral-biases-detector-thai
 
 ## Problem
-Since the global 2020 pandemic, trading has become the new normal for many Thais both in [Stock](https://www.bangkokpost.com/business/2048747/sharp-rise-in-online-trading-on-stock-market) and [Cryptocurrency](https://www.bangkokpost.com/business/2103539/april-sees-surge-in-retail-cryptocurrency-traders) markets. To illustrate, online accounts trading on the Thai stock market nearly doubled last year (Bangkokpost). However, most of the new traders tend to have very little or no experience in trading, let alone skills to survive the dynamic of financial markets. One of the skills inexperienced traders crave is trading psychology, understanding of themself. A traditional way to optimally learn trading psychology is to let a professional coach review your trade, but most traders don't have access to a professional coach.
+Since the global 2020 pandemic, trading has become the new normal for many Thais in [Stock](https://www.bangkokpost.com/business/2048747/sharp-rise-in-online-trading-on-stock-market) and [Cryptocurrency](https://www.bangkokpost.com/business/2103539/april-sees-surge-in-retail-cryptocurrency-traders) markets. To illustrate, online accounts trading on the Thai stock market nearly doubled last year (Bangkokpost). However, most of the new traders tend to have very little or no experience in trading, let alone skills to survive the dynamic of financial markets. One of the skills inexperienced traders crave is trading psychology, understanding of themself. A traditional way to optimally learn trading psychology is to let a professional coach review your trade, but most traders don't have access to a professional coach.
 
 
 ## Proposed solution
-We will create a sentiment analysis web app to read trader's diary in Thai language and classify their trading behavioral biases into 13 common biases discussed in Van K Thrap's classic book, [Trade your way to financial freedom](https://www.amazon.com/Trade-Your-Way-Financial-Freedom/dp/007147871X).
+We will create a sentiment analysis web app to read trader's diaries written in the Thai language and classify their trading behavioral biases into 13 common biases discussed in Van K Tharp's classic book, [Trade your way to financial freedom](https://www.amazon.com/Trade-Your-Way-Financial-Freedom/dp/007147871X).
 
 
 ## Initial idea
